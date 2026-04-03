@@ -6,6 +6,33 @@
 <ol class="bibliography">
 
 <li>
+<img  src="./assets/img/SATO.jpg" alt="" class="teaser"  title="SATO enables unified, high-quality artist mesh generation with native UV segmentation using a strip-based tokenizer." />
+<div class="pub-row">
+  <div class="col-sm-9" style="position: relative;padding-right: 0px;padding-left: 0px;">
+    <div class="title"><i style="color:#3388A2">Strips as Tokens: Artist Mesh Generation with Native UV Segmentation</i></div>
+    <div class="author">Rui Xu<sup>*</sup>, <Strong>Dafei Qin</Strong><sup>*</sup>, Kaichun Qiao, Qiujie Dong, Huaijin Pi, Qixuan Zhang, Longwen Zhang, Lan Xu, Jingyi Yu, Wenping Wang, Taku Komura</div>
+    <div class="periodical"><em>ACM SIGGRAPH 2026 (Journal Track)</em></div>
+      <sup>*</sup>Joint First Authors
+    <div class="links">
+      <a href="https://ruixu.me/html/SATO/index.html" class="link" role="link" target="_blank" style="font-size:16px;"><u>Project Page</u></a>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<img  src="./assets/img/ParaCAD.jpg" alt="" class="teaser"  title="ParaCAD receives point clouds as conditions and generates CAD models with native support of original parametric surfaces." />
+<div class="pub-row">
+  <div class="col-sm-9" style="position: relative;padding-right: 0px;padding-left: 0px;">
+    <div class="title"><i style="color:#3388A2">Autoregressive B-Rep Shape Generation with Parametric Surfaces</i></div>
+    <div class="author"><Strong>Dafei Qin</Strong><sup>*</sup>, Rui Xu<sup>*</sup>, Zeyu Shen, Kaichun Qiao, Hongyang Lin, Qixuan Zhang, Huaijin Pi, Lan Xu, Jingyi Yu, Wenping Wang, Taku Komura</div>
+    <div class="periodical"><em>ACM SIGGRAPH 2026</em></div>
+      <sup>*</sup>Joint First Authors
+  </div>
+</div>
+</li>
+
+<li>
 <img  src="./assets/img/TransGS.png" alt="" class="teaser"  title="We translate PBR Facial assets to Gaussian Splatting counterpart in seconds, enabling 30fps@1400p rendering on mobile phones." />
 <div class="pub-row">
   <div class="col-sm-9" style="position: relative;padding-right: 0px;padding-left: 0px;">
