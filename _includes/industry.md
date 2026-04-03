@@ -21,6 +21,7 @@
   </tr>
 </table>
 
+<div class="video-scroll-wrapper">
 <table>
   <tr>
   <td>
@@ -53,6 +54,8 @@
     </td>
   </tr>
 </table>
+</div>
+<div class="video-scroll-wrapper">
 <table>
   <tr>
   <td>
@@ -85,6 +88,8 @@
     </td>
   </tr>
 </table>
+</div>
+<div class="video-scroll-wrapper">
 <table>
   <tr>
   <td>
@@ -117,6 +122,8 @@
     </td>
   </tr>
 </table>
+</div>
+<div class="video-scroll-wrapper">
 <table>
   <tr>
   <td>
@@ -149,6 +156,8 @@
     </td>
   </tr>
 </table>
+</div>
+<div class="video-scroll-wrapper">
 <table>
   <tr>
   <td>
@@ -181,10 +190,12 @@
     </td>
   </tr>
 </table>
+</div>
 
 <h3><i>Structural Match for Video Generation</i></h3>
 Presented in <a href="https://www.adobe.com/max/2024/sessions/max-sneaks-gs3.html">Adobe MAX 2024</a> (22:37 -- 25:04) by <a href="https://research.adobe.com/person/li-yi-wei/">Li-Yi Wei</a>.
 
+<div class="video-scroll-wrapper">
 <table>
   <tr>
   <td>
@@ -210,6 +221,8 @@ Presented in <a href="https://www.adobe.com/max/2024/sessions/max-sneaks-gs3.htm
     </td>
   </tr>
 </table>
+</div>
+<div class="video-scroll-wrapper">
 <table>
   <tr>
   <td>
@@ -235,6 +248,7 @@ Presented in <a href="https://www.adobe.com/max/2024/sessions/max-sneaks-gs3.htm
     </td>
   </tr>
 </table>
+</div>
 
 <br>
 

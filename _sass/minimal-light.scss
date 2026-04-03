@@ -575,6 +575,24 @@ footer {
     overflow-x: auto;
   }
 
+  /* 视频横向滚动容器：裁剪溢出内容，防止撑大 viewport */
+  .video-scroll-wrapper {
+    max-width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  /* 视频表格在容器内保持固有宽度以启用横向滚动 */
+  .video-scroll-wrapper table {
+    min-width: 580px;
+    width: auto;
+    table-layout: fixed;
+  }
+
+  .video-scroll-wrapper td {
+    min-width: 140px;
+  }
+
   /* 视频自适应容器宽度 */
   video {
     max-width: 100%;
