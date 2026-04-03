@@ -79,14 +79,11 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .publications ol.bibliography li div.abstract.hidden.open { border-color: var(--global-text-color); }
 
-.publications ol.bibliography li .teaser { border-radius: 8px; box-shadow: 3px 3px 6px #888; height: 123px; width: 270px; margin-top: 5px; margin-left: 5px; margin-bottom: 5px; object-fit: cover; }
+.publications ol.bibliography li .teaser { border-radius: 8px; box-shadow: 3px 3px 6px #888; width: 100%; height: auto; margin-top: 5px; margin-bottom: 10px; object-fit: cover; }
 
-/* 移动端缩略图自适应 */
+/* 移动端缩略图间距 */
 @media screen and (max-width: 480px) {
   .publications ol.bibliography li .teaser {
-    width: 100%;
-    height: auto;
-    max-width: 270px;
     margin-bottom: 15px;
   }
 }
