@@ -5,11 +5,10 @@
 <div class="publications">
 <ol class="bibliography">
 
-<img  src="./assets/img/TransGS.png" alt="" class="teaser"  title="We translate PBR Facial assets to Gaussian Splatting counterpart in seconds, enabling 30fps@1400p rendering on mobile phones." width="70%" height="70%" />
 <li>
 
 <div class="pub-row">
-  
+  <img  src="./assets/img/TransGS.png" alt="" class="teaser"  title="We translate PBR Facial assets to Gaussian Splatting counterpart in seconds, enabling 30fps@1400p rendering on mobile phones." />
   <div class="col-sm-9" style="position: relative;padding-right: 0px;padding-left: 0px;">
     <div class="title"><i style="color:#3388A2">Instant Gaussian Splatting Generation for High-Quality and Real-Time Facial Asset Rendering</i></div>
     <div class="author"><Strong>Dafei Qin</Strong>, Hongyang Lin, Qixuan Zhang, Kaichun Qiao, Longwen Zhang, Zijun Zhao, Jun Saito, Jingyi Yu, Lan Xu, Taku Komura</div>
@@ -21,11 +20,10 @@
 </div>
 </li>
 
-<img  src="./assets/img/Media2Face.jpg" alt="" class="teaser"  title="We generate 3D talking face animation with head motions from audio, with rich controls from styles, text, images and etc." width="70%" height="70%" />
 <li>
 
 <div class="pub-row">
-  
+  <img  src="./assets/img/Media2Face.jpg" alt="" class="teaser"  title="We generate 3D talking face animation with head motions from audio, with rich controls from styles, text, images and etc." />
   <div class="col-sm-9" style="position: relative;padding-right: 0px;padding-left: 0px;">
     <div class="title"><i style="color:#3388A2">Media2Face: Co-speech Facial Animation Generation With Multi-Modality Guidance </i></div>
     <div class="author">Qingcheng Zhao, Pengyu Long, Qixuan Zhang, <Strong>Dafei Qin</Strong>, Han Liang, Longwen Zhang, Yingliang Zhang, Jingyi Yu, Lan Xu</div>
@@ -38,11 +36,10 @@
 </li>
 
 
-<img  src="./assets/img/NFR.jpg" alt="" class="teaser"  title="Top: Given an unrigged facial mesh with an unknown expression and identity in an arbitrary triangulation (yellow), NFR can transfer the expression to unrigged facial meshes with arbitrary triangulations (cyan). Bottom: NFR provides an interpretable latent space for user-friendly editing of the retargeted meshes." width="70%" height="70%" />
 <li>
 
 <div class="pub-row">
-  
+  <img  src="./assets/img/NFR.jpg" alt="" class="teaser"  title="Top: Given an unrigged facial mesh with an unknown expression and identity in an arbitrary triangulation (yellow), NFR can transfer the expression to unrigged facial meshes with arbitrary triangulations (cyan). Bottom: NFR provides an interpretable latent space for user-friendly editing of the retargeted meshes." />
   <div class="col-sm-9" style="position: relative;padding-right: 0px;padding-left: 0px;">
     <div class="title"><i style="color:#3388A2">Neural Face Rigging for Animating and Retargeting Facial Meshes in the Wild </i></div>
     <div class="author"><Strong>Dafei Qin</Strong>, Jun Saito, Noam Aigerman, Thibault Groueix, Taku Komura</div>
@@ -55,11 +52,10 @@
 </li>
 
 
-<img  src="./assets/img/BodyFormer.jpg" alt="" class="teaser"  title="Given an arbitrary input speech, our proposed transformer-based model, BodyFormer, can generate a sequence of vivid 3D body gestures" width="70%" height="70%" />
 <li>
 
 <div class="pub-row">
-
+  <img  src="./assets/img/BodyFormer.jpg" alt="" class="teaser"  title="Given an arbitrary input speech, our proposed transformer-based model, BodyFormer, can generate a sequence of vivid 3D body gestures" />
 
 
   <div class="col-sm-9" style="position: relative;padding-right: 0px;padding-left: 0px;">
