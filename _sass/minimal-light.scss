@@ -340,6 +340,11 @@ table {
   border-collapse:collapse;
 }
 
+/* 视频表格强制等宽列，避免不同分辨率视频导致列宽不一致 */
+.video-scroll-wrapper table {
+  table-layout: fixed;
+}
+
 th, td {
   text-align:left;
   padding:5px 10px;
