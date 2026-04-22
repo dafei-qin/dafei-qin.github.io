@@ -20,6 +20,7 @@
 </div>
 </li>
 
+<!-- 暂时隐藏：ParaCAD (Autoregressive B-Rep Shape Generation with Parametric Surfaces)
 <li>
 <img  src="./assets/img/ParaCAD.jpg" alt="" class="teaser"  title="ParaCAD receives point clouds as conditions and generates CAD models with native support of original parametric surfaces." />
 <div class="pub-row">
@@ -31,6 +32,7 @@
   </div>
 </div>
 </li>
+-->
 
 <li>
 <img  src="./assets/img/TransGS.png" alt="" class="teaser"  title="We translate PBR Facial assets to Gaussian Splatting counterpart in seconds, enabling 30fps@1400p rendering on mobile phones." />
